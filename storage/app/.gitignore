@@ -1,4 +1,4 @@
 *
-!private/rcp-areas
-!public/patchdata
+!private
+!public
 !.gitignore
