@@ -1,4 +1,7 @@
 *
 !rcp-areas
 !rcp-areas/*
+!watermark
+!watermark/*
+!watermark/**/*
 !.gitignore
